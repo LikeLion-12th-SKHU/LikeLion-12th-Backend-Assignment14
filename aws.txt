@@ -1,0 +1,2 @@
+AWS AMI를 이용한 인스턴스 마이그레이션
+https://blog.naver.com/sss4920/223637414719
